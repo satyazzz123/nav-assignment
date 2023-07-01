@@ -1,0 +1,12 @@
+.information{
+    background-color: #baba00;
+background-image: linear-gradient(315deg, #baba00 0%, #ba1313 74%);
+width: 100%;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.information h1{
+  
+}

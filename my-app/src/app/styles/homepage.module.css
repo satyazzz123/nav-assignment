@@ -1,0 +1,15 @@
+.homepage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    /* border: 2px solid black; */
+    align-items: center;
+    background-color: #dbf26e;
+background-image: linear-gradient(319deg, #dbf26e 0%, #61fa74 37%, #1cfdd6 100%);
+
+
+}
+.describe{
+    width: 80%;
+}
